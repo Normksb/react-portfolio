@@ -1,7 +1,7 @@
 # React Portfolio
  
   
-![Workout Tracker](https://github.com/Normksb/PWA-Budget-Tracker/blob/main/screenshot.png)
+![React Portfolio](https://github.com/Normksb/react-portfolio/blob/main/screenshot.png)
   
 [Here is a link to the deployed app](https://normksb.github.io/react-portfolio/)
 
