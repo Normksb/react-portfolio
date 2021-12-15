@@ -1,3 +1,5 @@
+import normImage from '../images/20211203_104329.jpg';
+
 const About = () => {
     return (
         <div id="about">
@@ -8,7 +10,7 @@ const About = () => {
             Norman Bernard
         </h1>
 
-        <img src="./images/20211203_104329.jpg" alt="Norman Bernard" class="content-item nb-image"/>
+        <img src={normImage} alt="Norman Bernard" class="content-item nb-image"/>
 
         <h2 class="content-item">
             Fullstack Web Developer

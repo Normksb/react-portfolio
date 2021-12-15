@@ -1,3 +1,10 @@
+import bookSearch from '../images/booksearch.png';
+import budgetTracker from '../images/budgettracker.png';
+import employeeManager from '../images/employeemanager.png';
+import feedingTimeTracker from '../images/feedingtimetracker.png';
+import siteMate from '../images/sitemate.png';
+import teamProfileGenerator from '../images/teamprofilegenerator.png';
+
 const Portfolio = () => {
 
     return (
@@ -11,7 +18,7 @@ const Portfolio = () => {
                     </a>
                 </div>
                 <a href="https://construction-site-mate.herokuapp.com/" target="_blank" rel="noreferrer">
-                    <img src="./assets/images/sitemate.png" alt="site mate" class="sample-work-image"/>
+                    <img src={siteMate} alt="site mate" class="sample-work-image"/>
                 </a>
             </article>
             <article class="sample-work">
@@ -22,7 +29,7 @@ const Portfolio = () => {
                     </a>
                 </div>
                 <a href="https://github.com/Normksb/employee-manager" target="_blank" rel="noreferrer">
-                    <img src="./assets/images/employeemanager.png" alt="Employee Manager" class="sample-work-image"/>
+                    <img src={employeeManager} alt="Employee Manager" class="sample-work-image"/>
                 </a>
             </article>
             <article class="sample-work">
@@ -33,7 +40,7 @@ const Portfolio = () => {
                     </a>
                 </div>
                 <a href="https://yurikitchin.github.io/Project1-FeedingTimeTracker/" target="_blank" rel="noreferrer">
-                    <img src="./assets/images/feedingtimetracker.png" alt="Feeding Time Tracker" class="sample-work-image"/>
+                    <img src={feedingTimeTracker} alt="Feeding Time Tracker" class="sample-work-image"/>
                 </a>
             </article>
             <article class="sample-work">
@@ -44,7 +51,7 @@ const Portfolio = () => {
                     </a>
                 </div>
                 <a href="https://nk-budget-tracker.herokuapp.com/" target="_blank" rel="noreferrer">
-                    <img src="./assets/images/budgettracker.png" alt="Budget Tracker" class="sample-work-image"/>
+                    <img src={budgetTracker} alt="Budget Tracker" class="sample-work-image"/>
                 </a>
             </article>
             <article class="sample-work">
@@ -55,7 +62,7 @@ const Portfolio = () => {
                     </a>
                 </div>
                 <a href="https://github.com/Normksb/team-profile-generator" target="_blank" rel="noreferrer">
-                    <img src="./assets/images/teamprofilegenerator.png" alt="Team Profile Generator" class="sample-work-image"/>
+                    <img src={teamProfileGenerator} alt="Team Profile Generator" class="sample-work-image"/>
                 </a>
             </article>
             <article class="sample-work">
@@ -66,7 +73,7 @@ const Portfolio = () => {
                     </a>
                 </div>
                 <a href="https://nk-book-search-engine.herokuapp.com/" target="_blank" rel="noreferrer">
-                    <img src="./assets/images/booksearch.png" alt="Book Search" class="sample-work-image"/>
+                    <img src={bookSearch} alt="Book Search" class="sample-work-image"/>
                 </a>
             </article>
 
