@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.86a8f582.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.27f0df4d.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.27f0df4d.chunk.js.map",
-    "runtime-main.js": "/react-portfolio/static/js/runtime-main.a6f470b7.js",
-    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.a6f470b7.js.map",
-    "static/js/2.776efbcb.chunk.js": "/react-portfolio/static/js/2.776efbcb.chunk.js",
-    "static/js/2.776efbcb.chunk.js.map": "/react-portfolio/static/js/2.776efbcb.chunk.js.map",
-    "index.html": "/react-portfolio/index.html",
-    "static/css/main.86a8f582.chunk.css.map": "/react-portfolio/static/css/main.86a8f582.chunk.css.map",
-    "static/js/2.776efbcb.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.776efbcb.chunk.js.LICENSE.txt",
-    "static/media/20211203_104329.00b0c6e0.jpg": "/react-portfolio/static/media/20211203_104329.00b0c6e0.jpg",
-    "static/media/booksearch.bc2844eb.png": "/react-portfolio/static/media/booksearch.bc2844eb.png",
-    "static/media/budgettracker.100cfcc7.png": "/react-portfolio/static/media/budgettracker.100cfcc7.png",
-    "static/media/index.css": "/react-portfolio/static/media/codebackground.4f78cae5.jpg",
-    "static/media/employeemanager.439fb25a.png": "/react-portfolio/static/media/employeemanager.439fb25a.png",
-    "static/media/feedingtimetracker.860fe191.png": "/react-portfolio/static/media/feedingtimetracker.860fe191.png",
-    "static/media/sitemate.89fe206c.png": "/react-portfolio/static/media/sitemate.89fe206c.png",
-    "static/media/teamprofilegenerator.6831370b.png": "/react-portfolio/static/media/teamprofilegenerator.6831370b.png"
+    "main.css": "/static/css/main.d8f8c511.chunk.css",
+    "main.js": "/static/js/main.27f0df4d.chunk.js",
+    "main.js.map": "/static/js/main.27f0df4d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.18ec9ea9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.18ec9ea9.js.map",
+    "static/js/2.776efbcb.chunk.js": "/static/js/2.776efbcb.chunk.js",
+    "static/js/2.776efbcb.chunk.js.map": "/static/js/2.776efbcb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d8f8c511.chunk.css.map": "/static/css/main.d8f8c511.chunk.css.map",
+    "static/js/2.776efbcb.chunk.js.LICENSE.txt": "/static/js/2.776efbcb.chunk.js.LICENSE.txt",
+    "static/media/20211203_104329.00b0c6e0.jpg": "/static/media/20211203_104329.00b0c6e0.jpg",
+    "static/media/booksearch.bc2844eb.png": "/static/media/booksearch.bc2844eb.png",
+    "static/media/budgettracker.100cfcc7.png": "/static/media/budgettracker.100cfcc7.png",
+    "static/media/index.css": "/static/media/codebackground.4f78cae5.jpg",
+    "static/media/employeemanager.439fb25a.png": "/static/media/employeemanager.439fb25a.png",
+    "static/media/feedingtimetracker.860fe191.png": "/static/media/feedingtimetracker.860fe191.png",
+    "static/media/sitemate.89fe206c.png": "/static/media/sitemate.89fe206c.png",
+    "static/media/teamprofilegenerator.6831370b.png": "/static/media/teamprofilegenerator.6831370b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a6f470b7.js",
+    "static/js/runtime-main.18ec9ea9.js",
     "static/js/2.776efbcb.chunk.js",
-    "static/css/main.86a8f582.chunk.css",
+    "static/css/main.d8f8c511.chunk.css",
     "static/js/main.27f0df4d.chunk.js"
   ]
 }
